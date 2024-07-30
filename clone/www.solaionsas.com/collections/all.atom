@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.solaionsas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.solaionsas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.solaionsas.com/collections/all.atom"/>
+  <title>SOLAION SAS</title>
+  <updated>2024-05-16T00:15:32-05:00</updated>
+  <author>
+    <name>SOLAION SAS</name>
+  </author>
+  <entry>
+    <id>https://www.solaionsas.com/products/9400926830909</id>
+    <published>2024-05-16T00:15:32-05:00</published>
+    <updated>2024-05-16T00:15:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.solaionsas.com/products/sistema-fotovoltaico-hospital-eduardo-arredondo-daza-sede-los-venados-11-1-kwp"/>
+    <title>Sistema Fotovoltaico Hospital Eduardo Arredondo Daza Sede Los Venados 11.1 kWp</title>
+    <s:type></s:type>
+    <s:vendor>ENFECO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0703/8015/9293/files/VENADOS_6532089c-d48f-423b-98dd-dc62805a9e67.jpg?v=1715836657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>ENFECO<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">SERVICIO: Consultoría</span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">TIPO DE USUARIO: Hospital </span></span></span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">UBICACIÓN: Valledupar - Cesar</span></span></span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">TIPO DE SISTEMA: Interconectado</span></span></span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ALMACENAMIENTO: No</span></span></span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">PANELES: 20</span></span></span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">PANEL DE POTENCIA: 555W</span></span></span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">CAPACIDAD CC: 11.1 kWp</span></span></span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">CAPACIDAD CA: 10 kW</span></span></span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">GENERACIÓN ANUAL: 15.287 kWh/año</span></span></span></span></li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.solaionsas.com/products/9400926830909</id>
+      <title>Default Title</title>
+      <s:price currency="COP">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.solaionsas.com/products/9400907530557</id>
+    <published>2024-05-16T00:07:48-05:00</published>
+    <updated>2024-05-16T00:07:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.solaionsas.com/products/sistema-fotovoltaico-tecnico-agropecuario-anaurio-manjarrez-24-42-kwp"/>
+    <title>Sistema Fotovoltaico Técnico Agropecuario Anaurio Manjarrez 24.42 kWp</title>
+    <s:type></s:type>
+    <s:vendor>ENFECO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0703/8015/9293/files/ANAURIO.jpg?v=1715836052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>ENFECO<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">SERVICIO: Diseño/Consultoría</span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">TIPO DE USUARIO: Institución educativa</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">UBICACIÓN: La Jagual del Pilar - La Guajira</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">TIPO DE SISTEMA: Interconectado</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ALMACENAMIENTO: No</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">PANELES: 44</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">POTENCIA PANEL: 555 W</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">CAPACIDAD DC: 24.42 kWp</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">CAPACIDAD AC: 22 kW</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">GENERACIÓN ANUAL: 37.882 kWh/año</span></span></li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.solaionsas.com/products/9400907530557</id>
+      <title>Default Title</title>
+      <s:price currency="COP">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.solaionsas.com/products/9400857788733</id>
+    <published>2024-05-15T23:41:06-05:00</published>
+    <updated>2024-05-15T23:41:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.solaionsas.com/products/sistema-fotovoltaico-hospital-eduardo-arredondo-daza-sede-patillal-23-4-kwp"/>
+    <title>Sistema Fotovoltaico Hospital Eduardo Arredondo Daza Sede Patillal 23.4 kWp</title>
+    <s:type></s:type>
+    <s:vendor>ENFECO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0703/8015/9293/files/PATILLALL1_2782c2a8-a544-4547-98e4-63c8503a8034.jpg?v=1715835085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>ENFECO<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">SERVICIO: Diseño/Consultoría</span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">TIPO DE USUARIO: Hospital </span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">UBICACIÓN: Valledupar - Cesar</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">TIPO DE SISTEMA: Interconectado</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ALMACENAMIENTO: No</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">PANELES: 40</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">POTENCIA PANEL: 585 W</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">CAPACIDAD DC: 23.4 kWp</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">CAPACIDAD AC: 20 kW</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">GENERACIÓN ANUAL: 32.941 kWh/año</span></span></li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.solaionsas.com/products/9400857788733</id>
+      <title>Default Title</title>
+      <s:price currency="COP">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.solaionsas.com/products/9400749457725</id>
+    <published>2024-05-15T22:46:06-05:00</published>
+    <updated>2024-05-15T22:46:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.solaionsas.com/products/sistema-fotovoltaico-interconectado-hospital-la-jagua-de-ibirico-93-5-kwp"/>
+    <title>Sistema Fotovoltaico Hospital La Jagua de Ibírico 93.5 kWp</title>
+    <s:type></s:type>
+    <s:vendor>ENFECO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0703/8015/9293/files/HJIRT_2e58c862-8ed9-4faf-a5ea-df9228154e55.jpg?v=1715833855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>ENFECO<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">SERVICIO: Consultoría </span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">TIPO DE USUARIO: Hospital </span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">UBICACIÓN: La Jagua de Ibírico - Cesar</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">TIPO DE SISTEMA: Interconectado</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ALMACENAMIENTO: No</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">PANELES: 170</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">POTENCIA PANEL: 550 W</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">CAPACIDAD DC: 93.5 kWp</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">CAPACIDAD AC: 82 kW</span></span></li>
+<li>
+<span style="vertical-align: inherit;"><span style="vertical-align: inherit;">GENERACIÓN ANUAL: 136.833 kWh/año</span></span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"></span></span>
+</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.solaionsas.com/products/9400749457725</id>
+      <title>Default Title</title>
+      <s:price currency="COP">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.solaionsas.com/products/9400647876925</id>
+    <published>2024-05-15T21:52:53-05:00</published>
+    <updated>2024-05-15T21:52:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.solaionsas.com/products/sistema-fotovoltaico-interconectado-trujilllo-sede-primaria-9-9-kwp"/>
+    <title>Sistema fotovoltaico Trujilllo Sede Primaria 9.9 kWp</title>
+    <s:type></s:type>
+    <s:vendor>ENFECO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0703/8015/9293/files/TSP2_d06ca050-225f-4b67-a472-0755608c3c1c.jpg?v=1715833936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>ENFECO<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">SERVICIO: Consultoría </span></span></span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">TIPO DE USUARIO: Institución </span></span></span></span></span></span><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">educativa</span></span></span></span></span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">UBICACIÓN: Becerril - Cesar</span></span></span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">TIPO DE SISTEMA: Interconectado</span></span></span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ALMACENAMIENTO: No</span></span></span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">PANELES: 18</span></span></span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">PANEL DE POTENCIA: 550W</span></span></span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">CAPACIDAD CC: 9,9 kWp</span></span></span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">CAPACIDAD CA: 8 kW</span></span></span></span></span></span></span></span></li>
+<li>
+<span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">GENERACIÓN ANUAL: 14.428 kWh/año</span></span></span></span></span></span></span></span><br>
+</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.solaionsas.com/products/9400647876925</id>
+      <title>Default Title</title>
+      <s:price currency="COP">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.solaionsas.com/products/9400545837373</id>
+    <published>2024-05-15T21:04:59-05:00</published>
+    <updated>2024-05-15T21:04:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.solaionsas.com/products/sistema-fotovoltaico-interconectado-angela-maria-torres-sede-bachillerato-27-5-kwp"/>
+    <title>Sistema Fotovoltaico Angela María Torres Sede Bachillerato 27.5 kWp</title>
+    <s:type></s:type>
+    <s:vendor>ENFECO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0703/8015/9293/files/AMTSB.jpg?v=1715824327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>ENFECO<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">SERVICIO: Consultoría</span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">TIPO DE USUARIO: Institución educativa</span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">UBICACIÓN: Becerril - Cesar</span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">TIPO DE SISTEMA: Interconectado</span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">ALMACENAMIENTO: No</span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">PANELES: 50</span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">POTENCIA PANEL: 550 W</span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">CAPACIDAD DC:  27.5 kWp</span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">CAPACIDAD AC: 22 kW</span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">GENERACIÓN ANUAL: 38.462 kWh/año</span></span></li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.solaionsas.com/products/9400545837373</id>
+      <title>Default Title</title>
+      <s:price currency="COP">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.solaionsas.com/products/9400488788285</id>
+    <published>2024-05-15T20:30:23-05:00</published>
+    <updated>2024-05-15T20:30:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.solaionsas.com/products/sistema-fotovoltaico-interconectado-megacolegio-trujillo-18-7-kwp"/>
+    <title>Sistema Fotovoltaico Megacolegio Trujillo 18.7 kWp</title>
+    <s:type>Interconectado</s:type>
+    <s:vendor>ENFECO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0703/8015/9293/files/MCT_498cee85-b60e-41ae-84de-eeb4448e844f.jpg?v=1715828396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>ENFECO<br>
+        <strong>Tipo: </strong>Interconectado<br>
+        <strong>Precio: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">SERVICIO: Consultoría </span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">TIPO DE USUARIO: Institución </span></span><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">educativa</span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">UBICACIÓN: Becerril - Cesar</span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">TIPO DE SISTEMA: Interconectado</span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ALMACENAMIENTO: No</span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">PANELES: 34</span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">POTENCIA PANEL: 550 W</span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">CAPACIDAD CC: 18,7 kWp</span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">CAPACIDAD CA: 17 kW</span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">GENERACIÓN ANUAL: 26.724 kWh/año</span></span></span></span></li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.solaionsas.com/products/9400488788285</id>
+      <title>Default Title</title>
+      <s:price currency="COP">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.solaionsas.com/products/9398059335997</id>
+    <published>2024-05-14T13:22:52-05:00</published>
+    <updated>2024-05-14T13:22:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.solaionsas.com/products/sistema-fotovoltaico-acueducto-guichiral-15-54-kwp"/>
+    <title>Sistema Fotovoltaico Acueducto Guichiral 15.54 kWP</title>
+    <s:type>Interconectado</s:type>
+    <s:vendor>JAEB/SOLAION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0703/8015/9293/files/SUPERIOR_SSFV.jpg?v=1715710950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>JAEB/SOLAION<br>
+        <strong>Tipo: </strong>Interconectado<br>
+        <strong>Precio: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">SERVICIO: Diseño y ejecución</span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">TIPO DE USUARIO: Acueducto</span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">UBICACIÓN: Guichiral - Puerto López Meta</span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">TIPO DE SISTEMA: Interconectado</span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ALMACENAMIENTO: No</span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">PANELES: 28</span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">POTENCIA PANEL: 555W</span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">CAPACIDAD CC: 15,54 kWp</span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">CAPACIDAD CA: 14 kW</span></span></span></span></span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">GENERACIÓN ANUAL: 20.235 kWh/año</span></span></span></span></span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.solaionsas.com/products/9398059335997</id>
+      <title>Default Title</title>
+      <s:price currency="COP">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
